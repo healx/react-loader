@@ -1,5 +1,5 @@
 {
-  "name": "react-loader",
+  "name": "@mwilliamson-healx/react-loader",
   "description": "React component that displays a spinner via spin.js until your component is loaded",
   "version": "2.4.2",
   "main": "lib/react-loader.js",
